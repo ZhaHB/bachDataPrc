@@ -1,0 +1,395 @@
+INSERT INTO `paper_tag` VALUES ('32023664
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023632
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023622
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023548
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023524
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023463
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023459
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023457
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023456
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023454
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023453
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023451
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023450
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023446
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023351
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023326
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023314
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023304
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023284
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023268
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023667
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023551
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023483
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023475
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023470
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023469
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023464
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023462
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023455
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023450
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023447
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023430
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023428
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023415
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023357
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023341
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023326
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023284
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023247
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023246
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023445
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023357
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32020600
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32020280
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32020195
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32020006
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32019018
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32018010
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32017355
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32016851
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32016368
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32016119
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32015104
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32014385
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32013145
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32012740
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32012717
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32012666
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32011709
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32011704
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023549
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023009
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32022430
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021975
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021962
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021906
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021809
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021524
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021461
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021454
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021442
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021418
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021379
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021298
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021287
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021281
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021269
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021248
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021246
+', 'gene');
+INSERT INTO `paper_tag` VALUES ('32021239', 'gene');
+INSERT INTO `paper_tag` VALUES ('32023020
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023632
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023616
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023576
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023562
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023558
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023553
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023548
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023508
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023502
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023500
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023483
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023482
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023480
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023474
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023471
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023470
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023464
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023461
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023460
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023616
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023602
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023596
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023576
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023558
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023553
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023483
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023466
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023458
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023262
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023076
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023074
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022929
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022898
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022690
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022503
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022484
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022476
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022429
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32022417
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32021835
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32019878
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32017898
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32016460
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32014098
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32014096
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32013110
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32009942
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32009905
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32008743
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32008463
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32008165
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32007626
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32003498
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32001344
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32001092
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32000686
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32000661
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('31999954
+', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('31999011', 'biochemistry and molecular biology');
+INSERT INTO `paper_tag` VALUES ('32023665
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023632
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023624
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023622
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023616
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023603
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023601
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023600
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023599
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023597
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023596
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023576
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023563
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023558
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023553
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023550
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023548
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023533
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023531
+', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023528', 'cell');
+INSERT INTO `paper_tag` VALUES ('32023665
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023616
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023598
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023576
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023575
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023567
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023563
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023555
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023528
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023524
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023422
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023421
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023372
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023296
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023294
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023262
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023239
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023138
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023087
+', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023086', 'zoology');
+INSERT INTO `paper_tag` VALUES ('32023687
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023686
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023684
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023682
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023681
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023679
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023673
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023670
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023669
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023667
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023666
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023634
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023619
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023614
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023613
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023612
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023606
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023603
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023602
+', 'disease');
+INSERT INTO `paper_tag` VALUES ('32023600', 'disease');
